@@ -60,16 +60,14 @@ Inside of the ruby console type the next code.
 
 ```irb
 irb(main):001:0> bubble_sort_by(%w[hi hello hey]) { |left, right| left.length - right.length }
-["hi", "hey", "hello"]
-=> nil
+=> ["hello", "hey", "hi"]
 ```
 
 The block allow you to sort the array in descender order.
 
 ```
 irb(main):001:0> bubble_sort_by(%w[hi hello hey]) { |left, right| right.length - left.length }
-["hello", "hey", "hi"]
-=> nil
+=> ["hello", "hey", "hi"]
 ```
 
 ### Authors:
