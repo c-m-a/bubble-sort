@@ -7,7 +7,9 @@ This project is base on the [Bubble Sort from the Odin Project web site](https:/
 The bubble sort algorithm is one the easiest to implement in an array of numbers,
 words, characters; by comparing the left and right position of the array given.
 
-[![Bubble sort animation](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)](http://en.wikipedia.org/wiki/Bubble_sort){.center}
+### Animation
+
+[![Bubble sort animation](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)](http://en.wikipedia.org/wiki/Bubble_sort){ text-center }
 
 If need more details about bubble sort you can click in the [Wikipedia article](http://en.wikipedia.org/wiki/Bubble_sort) or
 check out [Harvard’s CS50x on Bubble Sort](https://www.youtube.com/watch?v=8Kp-8OGwphY)
