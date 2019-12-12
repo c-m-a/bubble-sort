@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-def bubble_sort_by(array = [], &block)
+def bubble_sort_by(array = [], &_block)
   length = array.length
   return 'Not block given' unless block_given?
 
