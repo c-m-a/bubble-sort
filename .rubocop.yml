@@ -26,6 +26,7 @@ Style/ClassAndModuleChildren:
   Enabled: false
 
 Layout/HashAlignment:
+  Enabled: false
   EnforcedColonStyle: key
 Layout/ExtraSpacing:
   AllowForAlignment: false
